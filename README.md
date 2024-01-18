@@ -19,7 +19,7 @@ I'm Hennadii Tkachenko a Senior DevOps Engineer with more than 10 years of exper
 ![GitHub User's stars](https://img.shields.io/github/stars/gtkachenko)
 ![GitHub followers](https://img.shields.io/github/followers/gtkachenko)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gtkachenko)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gtkachenko&show_icons=true&bg_color=00000000)
 
 
 
