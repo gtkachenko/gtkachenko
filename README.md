@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Hennadii Tkachenko a Senior DevOps Engineer with more than 10 years of experience. Experienced both in the type of infrastructure Cloud and BeraMetal.
+
+![GitHub top language](https://img.shields.io/github/languages/top/gtkachenko/42cc)
+
+
