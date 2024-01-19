@@ -24,4 +24,7 @@ I'm Hennadii Tkachenko a Senior DevOps Engineer with more than 10 years of exper
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtkachenko)](https://github.com/anuraghazra/github-readme-stats)
 
 
+![](https://komarev.com/ghpvc/?username=gtkachenko&abbreviated=true)
+
+
 
